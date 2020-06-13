@@ -11,15 +11,17 @@ The USGS is interested in building a new set of tools that will allow them visua
 ### Your Task
 **Level 1: Basic Visualization 
 
+![](Images/Leaflet_1.png)
+
 Your first task is to visualize an earthquake data set.
 
 ### 1. Get your data set
 
-3-Data
+![](Images/Image_3.png)
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
-4-JSON
+![](Images/Image_4.png)
 
 ### 2. Import & Visualize the Data
 
@@ -31,4 +33,4 @@ Include popups that provide additional information about the earthquake when a m
 
 Create a legend that will provide context for your map data.
 
-Your visualization should look something like the map above.
+My visualization is the map above.
